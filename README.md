@@ -1,6 +1,6 @@
 # Lunchtime Drawtime
 
-Prompts for things to draw during lunch.
+Prompts via SMS for things to draw during lunch.
 
 ## Contributing
 
