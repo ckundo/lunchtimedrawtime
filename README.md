@@ -2,6 +2,8 @@
 
 Prompts via SMS for things to draw during lunch.
 
+![Time to draw!](https://38.media.tumblr.com/avatar_47d99c78dacd_128.png)
+
 ## Set up an app to send yourself prompts
 
 1. Create a [Twilio account](https://www.twilio.com/try-twilio)
