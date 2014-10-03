@@ -1,6 +1,6 @@
 # Lunchtime Drawtime
 
-Prompts via SMS for things to draw during lunch.
+Prompts via SMS for things to draw during lunch. Submit artworks to <http://lunchtimedrawtime.com>
 
 ![Time to draw!](https://38.media.tumblr.com/avatar_47d99c78dacd_128.png)
 
