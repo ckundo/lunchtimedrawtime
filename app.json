@@ -1,0 +1,19 @@
+{
+  "name": "Lunchtime Drawtime",
+  "description": "Get SMS prompts for things to draw during lunch. Submit your drawings to http://lunchtimedrawtime.com",
+  "keywords": [
+    "drawtime",
+    "drawing",
+    "art",
+    "fun"
+  ],
+  "addons": [
+    "scheduler:standard"
+  ],
+  "env": {
+    "TWILIO_ACCOUNT_SID": "set your twilio account id",
+    "TWILIO_AUTH_TOKEN": "set your twilio auth token",
+    "TWILIO_FROM": "set your twilio from number",
+    "TWILIO_TO": "set your mobile number"
+  }
+}
